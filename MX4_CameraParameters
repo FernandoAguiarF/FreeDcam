@@ -1,0 +1,1568 @@
+MX4
+3.10.72-user
+3dnr-mode-values=on,off
+3dnr-mode=off
+afeng-max-focus-step=1023
+afeng-min-focus-step=0
+afeng_raw_dump_flag=1
+aflamp-mode-values=off,on,auto
+aflamp-mode=off
+antibanding-values=off,50hz,60hz,auto
+antibanding=auto
+auto-exposure-lock-supported=true
+auto-whitebalance-lock-supported=true
+brightness-values=low,middle,high
+brightness=middle
+brightness_value=-26
+burst-num=1
+cap-isp-g=1024
+cap-mode-values=normal,face_beauty,continuousshot,smileshot,bestshot,burstshot,zsd,cartoonshot,shareshot,light-field,night-enhancement,hdr,autorama,mav,asd,motiontrack
+cap-mode=normal
+cap-sr-g=8192
+cap-ss=100005
+capfname=/sdcard/DCIM/cap00
+contrast-values=low,middle,high
+contrast=middle
+cshot-indicator-supported=true
+cshot-indicator=true
+dynamic-frame-rate-supported=true
+dynamic-frame-rate=true
+edge-values=low,middle,high
+edge=middle
+effect-values=none,mz_lively,mz_moonlight,mz_black_and_white,mz_blue,mz_pink,mz_film,mz_natural,mz_dawn,mz_sakura,mz_dreamy,mz_bright,maroon,black_and_white,film,oxidize,leaf,violet,light_yellow,azure,viridity,wood,pale_green,fading,corn_field,olive_yellow,toy,pale_blue,clay_bank,sunny
+effect=none
+eng-mfll-e=false
+eng-mfll-s=true
+eng-prv-fius=40126000
+eng-s-shad-t=0
+eng-shad-t=0
+ev-cal-o=-38
+exposure-compensation-step=1.0
+exposure-compensation=0
+fb-enlarge-eye-max=4
+fb-enlarge-eye-min=-4
+fb-enlarge-eye=0
+fb-extreme-beauty-supported=true
+fb-extreme-beauty=true
+fb-face-pos=-2000:-2000
+fb-sharp-max-values=12
+fb-sharp-max=12
+fb-sharp-min-values=-12
+fb-sharp-min=-12
+fb-sharp=0
+fb-skin-color-max-values=12
+fb-skin-color-max=12
+fb-skin-color-min-values=-12
+fb-skin-color-min=-12
+fb-skin-color=0
+fb-slim-face-max-values=12
+fb-slim-face-max=12
+fb-slim-face-min-values=-12
+fb-slim-face-min=-12
+fb-slim-face=0
+fb-smooth-level-max-values=12
+fb-smooth-level-max=12
+fb-smooth-level-min-values=-12
+fb-smooth-level-min=-12
+fb-smooth-level=0
+fb-touch-pos=-2000:-2000
+feature-max-fps=24@VFB+EIS
+flash-duty-max=1
+flash-duty-min=0
+flash-duty-value=-1
+flash-mode-values=off,on,auto,red-eye,torch
+flash-mode=off
+flash-step-max=0
+flash-step-min=0
+focal-length=4.76
+focus-distances=0.95,1.9,Infinity
+focus-fs-fi-max=65535
+focus-fs-fi-min=0
+focus-fs-fi=0
+focus-mode-values=auto,macro,infinity,continuous-picture,continuous-video,manual,fullscan
+focus-mode=auto
+gesture-shot-supported=true
+gesture-shot=false
+horizontal-view-angle=63
+hue-values=low,middle,high
+hue=middle
+iso-speed-values=auto,100,200,400,800,1600
+iso-speed=auto
+isp-mode=1
+jpeg-quality=100
+jpeg-thumbnail-height=128
+jpeg-thumbnail-quality=100
+jpeg-thumbnail-size-values=0x0,160x128,256x192
+jpeg-thumbnail-width=160
+m-sr-g=0
+m-ss=0
+max-exposure-compensation=3
+max-num-detected-faces-hw=15
+max-num-detected-faces-sw=0
+max-num-focus-areas=1
+max-num-metering-areas=9
+max-num-ot=1
+max-zoom=10
+mfb-values=off,ais
+mfb=off
+min-exposure-compensation=-3
+mnr-e=0
+mnr-s=true
+mtk-123-shad-s=true
+mtk-awb-s=true
+mtk-cam-mode=0
+mtk-heartbeat-monitor-supported=true
+mtk-shad-s=true
+native-pip-supported=true
+native-pip=false
+picture-format-values=jpeg
+picture-format=jpeg
+picture-size-values=320x240,640x480,1024x768,1280x720,1280x768,1280x960,1600x1200,2048x1536,2560x1440,2560x1920,2624x1968,2896x1744,3264x2448,3648x2192,4080x2448,4480x2688,5040x3024,5248x3936
+picture-size=5248x3936
+pip-fps-zsd-off=30
+pip-fps-zsd-on=22
+preferred-preview-size-for-video=1920x1088
+preview-format-values=yuv420sp,yuv420p,yuv420i-yyuvyy-3plane
+preview-format=yuv420sp
+preview-fps-range-values=(5000,60000)
+preview-fps-range=5000,60000
+preview-frame-rate-values=10,20,15,24,30,100
+preview-frame-rate=30
+preview-size-values=176x144,320x240,352x288,480x320,480x368,640x480,720x480,800x480,800x600,864x480,960x540,1280x720,1440x1080,1920x1080,1920x1088,1920x1440,2224x1664
+preview-size=1920x1440
+prv-ae-i=118
+prv-isp-g=1368
+prv-sr-g=15360
+prv-ss=39995
+rawfname=/storage/emulated/0/DCIM/FreeDCam/mtk_.bayer
+rawsave-mode=2
+rotation=0
+saturation-values=low,middle,high
+saturation=middle
+scene-mode-values=auto,portrait,landscape,night,night-portrait,theatre,beach,snow,sunset,steadyphoto,fireworks,sports,party,candlelight,hdr
+scene-mode=auto
+sen-mode-s=0
+sensor-type=252
+shutter-value-supported=0,125,250,500,1000,2000,5000,10000,20000,50000,100000,200000,300000,400000,500000,600000,800000,1000000,2000000,3000000,5000000,10000000,15000000,20000000
+shutter-value=0
+smooth-zoom-supported=true
+sr-awb-s=true
+sr-shad-s=true
+stereo-capture-frame-rate=15
+stereo-depth-af-values=off
+stereo-depth-af=off
+stereo-distance-measurement-values=off
+stereo-distance-measurement=off
+stereo-image-refocus-values=off
+stereo-image-refocus=off
+stereo-preview-frame-rate=15
+sv1-s=3
+sv2-s=3
+vdr-cc2m-s=true
+vdr-r2m-s=true
+vdr-r4k2k-s=true
+vdr-r=0
+vertical-view-angle=50
+vfb-supported-values=true
+vfb-supported=true
+video-frame-format=yuv420p
+video-size-values=176x144,320x240,480x320,640x480,720x480,864x480,1280x720,1280x736,1920x1080,1920x1088,3840x2176
+video-size=640x480
+video-snapshot-supported=true
+video-stabilization-supported=true
+video-stabilization=true
+vrd-mfr-e=true
+vrd-mfr-high=30
+vrd-mfr-low=15
+vrd-mfr-max=30
+vrd-mfr-min=15
+vrd-mfr-s=true
+whitebalance-values=auto,incandescent,fluorescent,warm-fluorescent,daylight,cloudy-daylight,twilight,shade
+whitebalance=auto
+zoom-ratios=100,114,132,151,174,200,229,263,303,348,400
+zoom-supported=true
+zoom=0
+zsd-mode-values=off,on
+zsd-mode=on
+public class Camera {
+   private  AFDataCallback mAFDataCallback;
+   private  AsdCallback mAsdCallback;
+   private  AutoFocusCallback mAutoFocusCallback;
+   final  Object mAutoFocusCallbackLock;
+   private  AutoFocusMoveCallback mAutoFocusMoveCallback;
+   private  AutoRamaCallback mAutoRamaCallback;
+   private  AutoRamaMoveCallback mAutoRamaMoveCallback;
+   private  ContinuousShotCallback mCSDoneCallback;
+   private  DistanceInfoCallback mDistanceInfoCallback;
+   private  boolean mEnableRaw16;
+   private  ErrorCallback mErrorCallback;
+   private  EventHandler mEventHandler;
+   private  boolean mFaceDetectionRunning;
+   private  FaceDetectionListener mFaceListener;
+   private  FbOriginalCallback mFbOriginalCallback;
+   private  GestureCallback mGestureCallback;
+   private  HdrOriginalCallback mHdrOriginalCallback;
+   private  PictureCallback mJpegCallback;
+   private  MavCallback mMavCallback;
+   private  MetadataCallback mMetadataCallbacks;
+   private  MotionTrackCallback mMotionTrackCallback;
+   private  long mNativeContext;
+   final  Object mObjectCallbackLock;
+   private  Face mObjectFace;
+   private  ObjectTrackingListener mObjectListener;
+   private  Rect mObjectRect;
+   private  boolean mOneShot;
+   private  PictureCallback mPostviewCallback;
+   private  PreviewCallback mPreviewCallback;
+   private  ZSDPreviewDone mPreviewDoneCallback;
+   private  PreviewRawDumpCallback mPreviewRawDumpCallback;
+   private  PictureCallback mRaw16Callbacks;
+   private  PictureCallback mRawImageCallback;
+   private  ShutterCallback mShutterCallback;
+   private  SmileCallback mSmileCallback;
+   private  boolean mStereo3DModeForCamera;
+   private  StereoCameraJpsCallback mStereoCameraJpsCallback;
+   private  StereoCameraMaskCallback mStereoCameraMaskCallback;
+   private  StereoCameraWarningCallback mStereoCameraWarningCallback;
+   private  boolean mUsingPreviewAllocation;
+   private  boolean mWithBuffer;
+   private  OnZoomChangeListener mZoomListener;
+   final static  String ACTION_NEW_PICTURE = android.hardware.action.NEW_PICTURE;
+   final static  String ACTION_NEW_VIDEO = android.hardware.action.NEW_VIDEO;
+   final static  int CAMERA_ERROR_NO_MEMORY = 1000;
+   final static  int CAMERA_ERROR_RESET = 1001;
+   final static  int CAMERA_ERROR_SERVER_DIED = 100;
+   final static  int CAMERA_ERROR_UNKNOWN = 1;
+   final static  int CAMERA_FACE_DETECTION_HW = 0;
+   final static  int CAMERA_FACE_DETECTION_SW = 1;
+   final static  int CAMERA_HAL_API_VERSION_1_0 = 256;
+   final static  int CAMERA_HAL_API_VERSION_NORMAL_CONNECT = -2;
+   final static  int CAMERA_HAL_API_VERSION_UNSPECIFIED = -1;
+   final static  int CAMERA_MSG_COMPRESSED_IMAGE = 256;
+   final static  int CAMERA_MSG_ERROR = 1;
+   final static  int CAMERA_MSG_FOCUS = 4;
+   final static  int CAMERA_MSG_FOCUS_MOVE = 2048;
+   final static  int CAMERA_MSG_POSTVIEW_FRAME = 64;
+   final static  int CAMERA_MSG_PREVIEW_FRAME = 16;
+   final static  int CAMERA_MSG_PREVIEW_METADATA = 1024;
+   final static  int CAMERA_MSG_RAW_IMAGE = 128;
+   final static  int CAMERA_MSG_RAW_IMAGE_NOTIFY = 512;
+   final static  int CAMERA_MSG_SHUTTER = 2;
+   final static  int CAMERA_MSG_VIDEO_FRAME = 32;
+   final static  int CAMERA_MSG_ZOOM = 8;
+   final static  int EACCESS = -13;
+   final static  int EBUSY = -16;
+   final static  int EINVAL = -22;
+   final static  int ENODEV = -19;
+   final static  int ENOSYS = -38;
+   final static  int EOPNOTSUPP = -95;
+   final static  int EUSERS = -87;
+   final static  int MTK_CAMERA_MSG_EXT_DATA = -2147483648;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_AF = 2;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_AUTORAMA = 1;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_BURST_SHOT = 3;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_FACEBEAUTY = 6;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_HDR = 8;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_JPS = 17;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_MAV = 7;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_MOTIONTRACK = 9;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_OT = 5;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_RAW16 = 19;
+   final static  int MTK_CAMERA_MSG_EXT_DATA_STEREO_DBG = 18;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY = 1073741824;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_ASD = 2;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_BURST_SHUTTER = 4;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_CONTINUOUS_END = 6;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_GESTURE_DETECT = 19;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_MAV = 3;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_METADATA_DONE = 22;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_RAW_DUMP_STOPPED = 18;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_SMILE_DETECT = 1;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_STEREO_DISTANCE = 21;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_STEREO_WARNING = 20;
+   final static  int MTK_CAMERA_MSG_EXT_NOTIFY_ZSD_PREVIEW_DONE = 7;
+   final static  int NO_ERROR = 0;
+   final static  String TAG = CameraFramework;
+
+   final void addCallbackBuffer(byte[]);
+   final void addRawImageCallbackBuffer(byte[]);
+   final void autoFocus(AutoFocusCallback);
+   public int cameraInitUnspecified(int);
+   final void cancelAutoFocus();
+   public native void cancelContinuousShot();
+   final void cancelMainFaceInfo();
+   public native void cancelPanorama();
+   final Allocation createPreviewAllocation(RenderScript, int);
+   final boolean disableShutterSound();
+   final native void doPanorama(int);
+   final void enableRaw16(boolean);
+   final native void enableRaw16Callback(boolean);
+   final boolean enableShutterSound(boolean);
+   protected void finalize();
+   final native void getMetadata(CameraMetadataNativeCameraMetadataNative);
+   public Parameters getParameters();
+   final native void lock();
+   final native boolean previewEnabled();
+   final native void reconnect();
+   final void release();
+   final void setAFDataCallback(AFDataCallback);
+   final void setAsdCallback(AsdCallback);
+   public void setAutoFocusMoveCallback(AutoFocusMoveCallback);
+   final void setAutoRamaCallback(AutoRamaCallback);
+   final void setAutoRamaMoveCallback(AutoRamaMoveCallback);
+   public void setContinuousShotCallback(ContinuousShotCallback);
+   public native void setContinuousShotSpeed(int);
+   final native void setDisplayOrientation(int);
+   final void setDistanceInfoCallback(DistanceInfoCallback);
+   final void setErrorCallback(ErrorCallback);
+   final void setFaceDetectionListener(FaceDetectionListener);
+   final void setFbOriginalCallback(FbOriginalCallback);
+   final void setGestureCallback(GestureCallback);
+   final void setHdrOriginalCallback(HdrOriginalCallback);
+   final void setMainFaceCoordinate(intint);
+   final void setMavCallback(MavCallback);
+   final void setMotionTrackCallback(MotionTrackCallback);
+   final void setObjectTrackingListener(ObjectTrackingListener);
+   final void setOneShotPreviewCallback(PreviewCallback);
+   public void setParameters(Parameters);
+   final void setPreviewCallback(PreviewCallback);
+   final void setPreviewCallbackAllocation(Allocation);
+   final void setPreviewCallbackWithBuffer(PreviewCallback);
+   final void setPreviewDisplay(SurfaceHolder);
+   public void setPreviewDoneCallback(ZSDPreviewDone);
+   public void setPreviewRawDumpCallback(PreviewRawDumpCallback);
+   final native void setPreviewSurface(Surface);
+   final native void setPreviewTexture(SurfaceTexture);
+   final void setRaw16Callback(MetadataCallback, PictureCallback);
+   final void setSmileCallback(SmileCallback);
+   public void setStereo3DModeForCamera(boolean);
+   final void setStereoCameraJpsCallback(StereoCameraJpsCallback);
+   final void setStereoCameraMaskCallback(StereoCameraMaskCallback);
+   final void setStereoCameraWarningCallback(StereoCameraWarningCallback);
+   final void setZoomChangeListener(OnZoomChangeListener);
+   final native void start3DSHOT(int);
+   final void startAutoRama(int);
+   final void startFaceDetection();
+   public void startGestureDetection();
+   final void startMav(int);
+   public native void startMotionTrack(int);
+   final void startObjectTracking(intint);
+   final native void startPreview();
+   public void startSmileDetection();
+   final native void startSmoothZoom(int);
+   public native void stop3DSHOT(int);
+   public void stopAutoRama(int);
+   final void stopFaceDetection();
+   public void stopGestureDetection();
+   public void stopMav(int);
+   public native void stopMotionTrack();
+   final void stopObjectTracking();
+   final void stopPreview();
+   public void stopSmileDetection();
+   final native void stopSmoothZoom();
+   final void takePicture(ShutterCallback, PictureCallbackPictureCallback);
+   final void takePicture(ShutterCallback, PictureCallbackPictureCallbackPictureCallback);
+   final native void unlock();
+   final native void _addCallbackBuffer(byte[], int);
+   final native boolean _enableShutterSound(boolean);
+   private static native void _getCameraInfo(int, CameraInfo);
+   final native void _startFaceDetection(int);
+   final native void _stopFaceDetection();
+   final native void _stopPreview();
+   static ShutterCallback access$000(Camera);
+   static PictureCallback access$100(Camera);
+   static OnZoomChangeListener access$1000(Camera);
+   static FaceDetectionListener access$1100(Camera);
+   static ErrorCallback access$1200(Camera);
+   static AutoFocusMoveCallback access$1300(Camera);
+   static SmileCallback access$1400(Camera);
+   static GestureCallback access$1500(Camera);
+   static AsdCallback access$1600(Camera);
+   static MavCallback access$1700(Camera);
+   static boolean access$1800(Camera);
+   static MetadataCallback access$1900(Camera);
+   static PictureCallback access$200(Camera);
+   static ContinuousShotCallback access$2000(Camera);
+   static ZSDPreviewDone access$2100(Camera);
+   static StereoCameraWarningCallback access$2200(Camera);
+   static DistanceInfoCallback access$2300(Camera);
+   static PreviewRawDumpCallback access$2400(Camera);
+   static AutoRamaMoveCallback access$2500(Camera);
+   static AutoRamaCallback access$2600(Camera);
+   static MotionTrackCallback access$2700(Camera);
+   static AFDataCallback access$2800(Camera);
+   static Object access$2900(Camera);
+   static PreviewCallback access$300(Camera);
+   static ObjectTrackingListener access$3000(Camera);
+   static PreviewCallback access$302(Camera, PreviewCallback);
+   static Rect access$3100(Camera);
+   static Face access$3200(Camera);
+   static HdrOriginalCallback access$3300(Camera);
+   static FbOriginalCallback access$3400(Camera);
+   static StereoCameraJpsCallback access$3500(Camera);
+   static StereoCameraMaskCallback access$3600(Camera);
+   static PictureCallback access$3700(Camera);
+   static boolean access$400(Camera);
+   static boolean access$500(Camera);
+   static void access$600(Camera, booleanboolean);
+   static PictureCallback access$700(Camera);
+   static Object access$800(Camera);
+   static AutoFocusCallback access$900(Camera);
+   final void addCallbackBuffer(byte[], int);
+   private int cameraInitNormal(int);
+   private int cameraInitVersion(intint);
+   private native void cancelGDPreview();
+   final native void cancelMainFace();
+   private native void cancelSDPreview();
+   public static boolean checkInitErrors(int);
+   private native void enableFocusMoveCallback(int);
+   public static void getCameraInfo(int, CameraInfo);
+   public static Parameters getEmptyParameters();
+   public static native int getNumberOfCameras();
+   public static Parameters getParametersCopy(Parameters);
+   public static String getProperty(StringString);
+   public static String getScreenSize();
+   private static boolean isPermissionGranted();
+   public static boolean isRestricted(int);
+   final native void native_autoFocus();
+   final native void native_cancelAutoFocus();
+   final native String native_getParameters();
+   private static native String native_getProperty(StringString);
+   final native void native_release();
+   final native void native_setParameters(String);
+   private static native void native_setProperty(StringString);
+   final native int native_setup(Object, int, int, String);
+   final native void native_takePicture(int);
+   public static Camera open();
+   public static Camera open(int);
+   public static Camera openLegacy(intint);
+   public static Camera openUninitialized();
+   private static void postEventFromNative(Objectint, int, int, Object);
+   final native void setHasPreviewCallback(booleanboolean);
+   final native void setMainFace(intint);
+   final native void setPreviewCallbackSurface(Surface);
+   public static void setProperty(StringString);
+   final native void startAUTORAMA(int);
+   private native void startGDPreview();
+   final native void startMAV(int);
+   final native void startOT(intint);
+   private native void startSDPreview();
+   private native void stopAUTORAMA(int);
+   private native void stopMAV(int);
+   final native void stopOT();
+
+   public class Parameters {
+      private  LinkedHashMap mMap;
+      private  boolean mStereo3DMode;
+      final  Camera this$0;
+      final static  String ANTIBANDING_50HZ = 50hz;
+      final static  String ANTIBANDING_60HZ = 60hz;
+      final static  String ANTIBANDING_AUTO = auto;
+      final static  String ANTIBANDING_OFF = off;
+      final static  int CAMERA_MODE_MTK_PRV = 1;
+      final static  int CAMERA_MODE_MTK_VDO = 2;
+      final static  int CAMERA_MODE_MTK_VT = 3;
+      final static  int CAMERA_MODE_NORMAL = 0;
+      final static  String CAPTURE_MODE_ASD = asd;
+      final static  String CAPTURE_MODE_BEST_SHOT = bestshot;
+      final static  String CAPTURE_MODE_BURST_SHOT = burstshot;
+      final static  String CAPTURE_MODE_CONTINUOUS_SHOT = continuousshot;
+      final static  String CAPTURE_MODE_EV_BRACKET_SHOT = evbracketshot;
+      final static  String CAPTURE_MODE_FB = face_beauty;
+      final static  String CAPTURE_MODE_GESTURE_SHOT = gestureshot;
+      final static  String CAPTURE_MODE_HDR = hdr;
+      final static  String CAPTURE_MODE_NORMAL = normal;
+      final static  String CAPTURE_MODE_PANORAMA3D = panorama3dmode;
+      final static  String CAPTURE_MODE_PANORAMA_SHOT = autorama;
+      final static  String CAPTURE_MODE_S3D = single3d;
+      final static  String CAPTURE_MODE_SMILE_SHOT = smileshot;
+      final static  String EFFECT_AQUA = aqua;
+      final static  String EFFECT_BLACKBOARD = blackboard;
+      final static  String EFFECT_MONO = mono;
+      final static  String EFFECT_NEGATIVE = negative;
+      final static  String EFFECT_NONE = none;
+      final static  String EFFECT_POSTERIZE = posterize;
+      final static  String EFFECT_SEPIA = sepia;
+      final static  String EFFECT_SOLARIZE = solarize;
+      final static  String EFFECT_WHITEBOARD = whiteboard;
+      final static  String EIS_MODE_OFF = off;
+      final static  String EIS_MODE_ON = on;
+      final static  String FALSE = false;
+      final static  String FLASH_MODE_AUTO = auto;
+      final static  String FLASH_MODE_OFF = off;
+      final static  String FLASH_MODE_ON = on;
+      final static  String FLASH_MODE_RED_EYE = red-eye;
+      final static  String FLASH_MODE_TORCH = torch;
+      final static  int FOCUS_DISTANCE_FAR_INDEX = 2;
+      final static  int FOCUS_DISTANCE_NEAR_INDEX = 0;
+      final static  int FOCUS_DISTANCE_OPTIMAL_INDEX = 1;
+      final static  int FOCUS_ENG_MODE_BRACKET = 1;
+      final static  int FOCUS_ENG_MODE_FULLSCAN = 2;
+      final static  int FOCUS_ENG_MODE_FULLSCAN_REPEAT = 3;
+      final static  int FOCUS_ENG_MODE_NONE = 0;
+      final static  int FOCUS_ENG_MODE_REPEAT = 4;
+      final static  String FOCUS_MODE_AUTO = auto;
+      final static  String FOCUS_MODE_CONTINUOUS_PICTURE = continuous-picture;
+      final static  String FOCUS_MODE_CONTINUOUS_VIDEO = continuous-video;
+      final static  String FOCUS_MODE_EDOF = edof;
+      final static  String FOCUS_MODE_FIXED = fixed;
+      final static  String FOCUS_MODE_FULLSCAN = fullscan;
+      final static  String FOCUS_MODE_INFINITY = infinity;
+      final static  String FOCUS_MODE_MACRO = macro;
+      final static  String FOCUS_MODE_MANUAL = manual;
+      final static  String KEY_AFLAMP_MODE = aflamp-mode;
+      final static  String KEY_ANTIBANDING = antibanding;
+      final static  String KEY_AUTO_EXPOSURE_LOCK = auto-exposure-lock;
+      final static  String KEY_AUTO_EXPOSURE_LOCK_SUPPORTED = auto-exposure-lock-supported;
+      final static  String KEY_AUTO_WHITEBALANCE_LOCK = auto-whitebalance-lock;
+      final static  String KEY_AUTO_WHITEBALANCE_LOCK_SUPPORTED = auto-whitebalance-lock-supported;
+      final static  String KEY_BRIGHTNESS_MODE = brightness;
+      final static  String KEY_BURST_SHOT_NUM = burst-num;
+      final static  String KEY_CAMERA_MODE = mtk-cam-mode;
+      final static  String KEY_CAPTURE_MODE = cap-mode;
+      final static  String KEY_CAPTURE_PATH = capfname;
+      final static  String KEY_CONTINUOUS_SPEED_MODE = continuous-shot-speed;
+      final static  String KEY_CONTRAST_MODE = contrast;
+      final static  String KEY_DYNAMIC_FRAME_RATE = dynamic-frame-rate;
+      final static  String KEY_DYNAMIC_FRAME_RATE_SUPPORTED = dynamic-frame-rate-supported;
+      final static  String KEY_EDGE_MODE = edge;
+      final static  String KEY_EFFECT = effect;
+      final static  String KEY_EIS_MODE = eis-mode;
+      final static  String KEY_ENG_AE_ENABLE = ae-e;
+      final static  String KEY_ENG_CAPTURE_ISO = cap-iso;
+      final static  String KEY_ENG_CAPTURE_ISP_GAIN = cap-isp-g;
+      final static  String KEY_ENG_CAPTURE_SENSOR_GAIN = cap-sr-g;
+      final static  String KEY_ENG_CAPTURE_SHUTTER_SPEED = cap-ss;
+      final static  String KEY_ENG_EV_CALBRATION_OFFSET_VALUE = ev-cal-o;
+      final static  String KEY_ENG_FLASH_DUTY_MAX = flash-duty-max;
+      final static  String KEY_ENG_FLASH_DUTY_MIN = flash-duty-min;
+      final static  String KEY_ENG_FLASH_DUTY_VALUE = flash-duty-value;
+      final static  String KEY_ENG_FOCUS_FULLSCAN_FRAME_INTERVAL = focus-fs-fi;
+      final static  String KEY_ENG_FOCUS_FULLSCAN_FRAME_INTERVAL_MAX = focus-fs-fi-max;
+      final static  String KEY_ENG_FOCUS_FULLSCAN_FRAME_INTERVAL_MIN = focus-fs-fi-min;
+      final static  String KEY_ENG_MFLL_ENABLE = eng-mfll-e;
+      final static  String KEY_ENG_MFLL_PICTURE_COUNT = eng-mfll-pc;
+      final static  String KEY_ENG_MFLL_SUPPORTED = eng-mfll-s;
+      final static  String KEY_ENG_MSG = eng-msg;
+      final static  String KEY_ENG_MTK_1to3_SHADING_ENABLE = mtk-123-shad-e;
+      final static  String KEY_ENG_MTK_1to3_SHADING_SUPPORTED = mtk-123-shad-s;
+      final static  String KEY_ENG_MTK_AWB_ENABLE = mtk-awb-e;
+      final static  String KEY_ENG_MTK_AWB_SUPPORTED = mtk-awb-s;
+      final static  String KEY_ENG_MTK_SHADING_ENABLE = mtk-shad-e;
+      final static  String KEY_ENG_MTK_SHADING_SUPPORTED = mtk-shad-s;
+      final static  String KEY_ENG_PARAMETER1 = eng-p1;
+      final static  String KEY_ENG_PARAMETER2 = eng-p2;
+      final static  String KEY_ENG_PARAMETER3 = eng-p3;
+      final static  String KEY_ENG_PREVIEW_AE_INDEX = prv-ae-i;
+      final static  String KEY_ENG_PREVIEW_FPS = eng-prv-fps;
+      final static  String KEY_ENG_PREVIEW_FRAME_INTERVAL_IN_US = eng-prv-fius;
+      final static  String KEY_ENG_PREVIEW_ISP_GAIN = prv-isp-g;
+      final static  String KEY_ENG_PREVIEW_SENSOR_GAIN = prv-sr-g;
+      final static  String KEY_ENG_PREVIEW_SHUTTER_SPEED = prv-ss;
+      final static  String KEY_ENG_SAVE_SHADING_TABLE = eng-s-shad-t;
+      final static  String KEY_ENG_SENOSR_MODE_SLIM_VIDEO1_SUPPORTED = sv1-s;
+      final static  String KEY_ENG_SENOSR_MODE_SLIM_VIDEO2_SUPPORTED = sv2-s;
+      final static  String KEY_ENG_SENSOR_AWB_ENABLE = sr-awb-e;
+      final static  String KEY_ENG_SENSOR_AWB_SUPPORTED = sr-awb-s;
+      final static  String KEY_ENG_SENSOR_SHADNING_ENABLE = sr-shad-e;
+      final static  String KEY_ENG_SENSOR_SHADNING_SUPPORTED = sr-shad-s;
+      final static  String KEY_ENG_SHADING_TABLE = eng-shad-t;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_CROP_CENTER_2M_SUPPORTED = vdr-cc2m-s;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_MANUAL_FRAME_RATE_ENABLE = vrd-mfr-e;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_MANUAL_FRAME_RATE_MAX = vrd-mfr-max;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_MANUAL_FRAME_RATE_MIN = vrd-mfr-min;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_MANUAL_FRAME_RATE_RANGE_HIGH = vrd-mfr-high;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_MANUAL_FRAME_RATE_RANGE_LOW = vrd-mfr-low;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_MANUAL_FRAME_RATE_SUPPORTED = vrd-mfr-s;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_RESIZE_TO_2M_SUPPORTED = vdr-r2m-s;
+      final static  String KEY_ENG_VIDEO_RAW_DUMP_RESIZE_TO_4K2K_SUPPORTED = vdr-r4k2k-s;
+      final static  String KEY_ENG_ZSD_ENABLE = eng-zsd-e;
+      final static  String KEY_EXPOSURE_COMPENSATION = exposure-compensation;
+      final static  String KEY_EXPOSURE_COMPENSATION_STEP = exposure-compensation-step;
+      final static  String KEY_EXPOSURE_METER_MODE = exposure-meter;
+      final static  String KEY_FD_MODE = fd-mode;
+      final static  String KEY_FLASH_MODE = flash-mode;
+      final static  String KEY_FOCAL_LENGTH = focal-length;
+      final static  String KEY_FOCUS_AREAS = focus-areas;
+      final static  String KEY_FOCUS_DISTANCES = focus-distances;
+      final static  String KEY_FOCUS_ENG_BEST_STEP = afeng-best-focus-step;
+      final static  String KEY_FOCUS_ENG_MAX_STEP = afeng-max-focus-step;
+      final static  String KEY_FOCUS_ENG_MIN_STEP = afeng-min-focus-step;
+      final static  String KEY_FOCUS_ENG_MODE = afeng-mode;
+      final static  String KEY_FOCUS_ENG_STEP = afeng-pos;
+      final static  String KEY_FOCUS_MODE = focus-mode;
+      final static  String KEY_FPS_MODE = fps-mode;
+      final static  String KEY_GPS_ALTITUDE = gps-altitude;
+      final static  String KEY_GPS_LATITUDE = gps-latitude;
+      final static  String KEY_GPS_LONGITUDE = gps-longitude;
+      final static  String KEY_GPS_PROCESSING_METHOD = gps-processing-method;
+      final static  String KEY_GPS_TIMESTAMP = gps-timestamp;
+      final static  String KEY_HORIZONTAL_VIEW_ANGLE = horizontal-view-angle;
+      final static  String KEY_HSVR_PRV_FPS = hsvr-prv-fps;
+      final static  String KEY_HSVR_PRV_SIZE = hsvr-prv-size;
+      final static  String KEY_HUE_MODE = hue;
+      final static  String KEY_ISOSPEED_MODE = iso-speed;
+      final static  String KEY_JPEG_QUALITY = jpeg-quality;
+      final static  String KEY_JPEG_THUMBNAIL_HEIGHT = jpeg-thumbnail-height;
+      final static  String KEY_JPEG_THUMBNAIL_QUALITY = jpeg-thumbnail-quality;
+      final static  String KEY_JPEG_THUMBNAIL_SIZE = jpeg-thumbnail-size;
+      final static  String KEY_JPEG_THUMBNAIL_WIDTH = jpeg-thumbnail-width;
+      final static  String KEY_MATV_PREVIEW_DELAY = tv-delay;
+      final static  String KEY_MAX_EXPOSURE_COMPENSATION = max-exposure-compensation;
+      final static  String KEY_MAX_FRAME_RATE_ZSD_OFF = pip-fps-zsd-off;
+      final static  String KEY_MAX_FRAME_RATE_ZSD_ON = pip-fps-zsd-on;
+      final static  String KEY_MAX_NUM_DETECTED_FACES_HW = max-num-detected-faces-hw;
+      final static  String KEY_MAX_NUM_DETECTED_FACES_SW = max-num-detected-faces-sw;
+      final static  String KEY_MAX_NUM_DETECTED_OBJECT = max-num-ot;
+      final static  String KEY_MAX_NUM_FOCUS_AREAS = max-num-focus-areas;
+      final static  String KEY_MAX_NUM_METERING_AREAS = max-num-metering-areas;
+      final static  String KEY_MAX_ZOOM = max-zoom;
+      final static  String KEY_METERING_AREAS = metering-areas;
+      final static  String KEY_MIN_EXPOSURE_COMPENSATION = min-exposure-compensation;
+      final static  String KEY_MUTE_RECORDING_SOUND = rec-mute-ogg;
+      final static  String KEY_PDAF_SUPPORTED = pdaf-supported;
+      final static  String KEY_PICTURE_FORMAT = picture-format;
+      final static  String KEY_PICTURE_SIZE = picture-size;
+      final static  String KEY_PREFERRED_PREVIEW_SIZE_FOR_VIDEO = preferred-preview-size-for-video;
+      final static  String KEY_PREVIEW_DUMP_RESOLUTION = prv-dump-res;
+      final static  String KEY_PREVIEW_FORMAT = preview-format;
+      final static  String KEY_PREVIEW_FPS_RANGE = preview-fps-range;
+      final static  String KEY_PREVIEW_FRAME_RATE = preview-frame-rate;
+      final static  String KEY_PREVIEW_SIZE = preview-size;
+      final static  String KEY_RAW_DUMP_FLAG = afeng_raw_dump_flag;
+      final static  String KEY_RAW_SAVE_MODE = rawsave-mode;
+      final static  String KEY_RECORDING_HINT = recording-hint;
+      final static  String KEY_REFOCUS_JPS_FILE_NAME = refocus-jps-file-name;
+      final static  String KEY_ROTATION = rotation;
+      final static  String KEY_SATURATION_MODE = saturation;
+      final static  String KEY_SCENE_MODE = scene-mode;
+      final static  String KEY_SENSOR_DEV = sensor-dev;
+      final static  String KEY_SENSOR_TYPE = sensor-type;
+      final static  String KEY_SMOOTH_ZOOM_SUPPORTED = smooth-zoom-supported;
+      final static  String KEY_STEREO3D_MODE = mode;
+      final static  String KEY_STEREO3D_PRE = stereo3d-;
+      final static  String KEY_STEREO3D_TYPE = type;
+      final static  String KEY_STEREO_DEPTHAF_MODE = stereo-depth-af;
+      final static  String KEY_STEREO_DISTANCE_MODE = stereo-distance-measurement;
+      final static  String KEY_STEREO_REFOCUS_MODE = stereo-image-refocus;
+      final static  String KEY_VERTICAL_VIEW_ANGLE = vertical-view-angle;
+      final static  String KEY_VIDEO_SIZE = video-size;
+      final static  String KEY_VIDEO_SNAPSHOT_SUPPORTED = video-snapshot-supported;
+      final static  String KEY_VIDEO_STABILIZATION = video-stabilization;
+      final static  String KEY_VIDEO_STABILIZATION_SUPPORTED = video-stabilization-supported;
+      final static  String KEY_WHITE_BALANCE = whitebalance;
+      final static  String KEY_ZOOM = zoom;
+      final static  String KEY_ZOOM_RATIOS = zoom-ratios;
+      final static  String KEY_ZOOM_SUPPORTED = zoom-supported;
+      final static  String KEY_ZSD_MODE = zsd-mode;
+      final static  String KEY_ZSD_SUPPORTED = zsd-supported;
+      final static  String OFF = off;
+      final static  String ON = on;
+      final static  String PIXEL_FORMAT_BAYER_RGGB = bayer-rggb;
+      final static  String PIXEL_FORMAT_JPEG = jpeg;
+      final static  String PIXEL_FORMAT_RGB565 = rgb565;
+      final static  String PIXEL_FORMAT_YUV420P = yuv420p;
+      final static  String PIXEL_FORMAT_YUV420SP = yuv420sp;
+      final static  String PIXEL_FORMAT_YUV422I = yuv422i-yuyv;
+      final static  String PIXEL_FORMAT_YUV422SP = yuv422sp;
+      final static  int PREVIEW_DUMP_RESOLUTION_CROP = 1;
+      final static  int PREVIEW_DUMP_RESOLUTION_NORMAL = 0;
+      final static  int PREVIEW_FPS_MAX_INDEX = 1;
+      final static  int PREVIEW_FPS_MIN_INDEX = 0;
+      final static  String SCENE_MODE_ACTION = action;
+      final static  String SCENE_MODE_AUTO = auto;
+      final static  String SCENE_MODE_BARCODE = barcode;
+      final static  String SCENE_MODE_BEACH = beach;
+      final static  String SCENE_MODE_CANDLELIGHT = candlelight;
+      final static  String SCENE_MODE_FIREWORKS = fireworks;
+      final static  String SCENE_MODE_HDR = hdr;
+      final static  String SCENE_MODE_LANDSCAPE = landscape;
+      final static  String SCENE_MODE_NIGHT = night;
+      final static  String SCENE_MODE_NIGHT_PORTRAIT = night-portrait;
+      final static  String SCENE_MODE_PARTY = party;
+      final static  String SCENE_MODE_PORTRAIT = portrait;
+      final static  String SCENE_MODE_SNOW = snow;
+      final static  String SCENE_MODE_SPORTS = sports;
+      final static  String SCENE_MODE_STEADYPHOTO = steadyphoto;
+      final static  String SCENE_MODE_SUNSET = sunset;
+      final static  String SCENE_MODE_THEATRE = theatre;
+      final static  String SENSOR_DEV_ATV = atv;
+      final static  String SENSOR_DEV_MAIN = main;
+      final static  String SENSOR_DEV_SUB = sub;
+      final static  String STEREO3D_TYPE_FRAMESEQ = frame_seq;
+      final static  String STEREO3D_TYPE_OFF = off;
+      final static  String STEREO3D_TYPE_SIDEBYSIDE = sidebyside;
+      final static  String STEREO3D_TYPE_TOPBOTTOM = topbottom;
+      final static  String SUPPORTED_VALUES_SUFFIX = -values;
+      final static  String TRUE = true;
+      final static  String WHITE_BALANCE_AUTO = auto;
+      final static  String WHITE_BALANCE_CLOUDY_DAYLIGHT = cloudy-daylight;
+      final static  String WHITE_BALANCE_DAYLIGHT = daylight;
+      final static  String WHITE_BALANCE_FLUORESCENT = fluorescent;
+      final static  String WHITE_BALANCE_INCANDESCENT = incandescent;
+      final static  String WHITE_BALANCE_SHADE = shade;
+      final static  String WHITE_BALANCE_TUNGSTEN = tungsten;
+      final static  String WHITE_BALANCE_TWILIGHT = twilight;
+      final static  String WHITE_BALANCE_WARM_FLUORESCENT = warm-fluorescent;
+
+      public Parameters copy();
+      public void copyFrom(Parameters);
+      public void dump();
+      public void enableRecordingSound(String);
+      public String flatten();
+      public String get(String);
+      public String getAFLampMode();
+      public String getAntibanding();
+      public boolean getAutoExposureLock();
+      public boolean getAutoWhiteBalanceLock();
+      public int getBestFocusStep();
+      public String getBrightnessMode();
+      public String getCaptureMode();
+      public String getColorEffect();
+      public String getContrastMode();
+      public String getDepthAFMode();
+      public String getDistanceMode();
+      public boolean getDynamicFrameRate();
+      public String getEdgeMode();
+      public String getEisMode();
+      public int getEngCaptureISO();
+      public int getEngCaptureISPGain();
+      public int getEngCaptureSensorGain();
+      public int getEngCaptureShutterSpeed();
+      public int getEngEVCalOffset();
+      public String getEngEngMSG();
+      public int getEngFlashDutyMax();
+      public int getEngFlashDutyMin();
+      public int getEngFocusFullScanFrameIntervalMax();
+      public int getEngFocusFullScanFrameIntervalMin();
+      public int getEngPreviewAEIndex();
+      public int getEngPreviewFPS();
+      public int getEngPreviewFrameIntervalInUS();
+      public int getEngPreviewISPGain();
+      public int getEngPreviewSensorGain();
+      public int getEngPreviewShutterSpeed();
+      public int getExposureCompensation();
+      public float getExposureCompensationStep();
+      public String getExposureMeterMode();
+      public String getFDMode();
+      public String getFlashMode();
+      public float getFocalLength();
+      public List getFocusAreas();
+      public void getFocusDistances(float[]);
+      public String getFocusMode();
+      public float getHorizontalViewAngle();
+      public String getHueMode();
+      public String getISOSpeed();
+      public int getInt(String);
+      public int getJpegQuality();
+      public int getJpegThumbnailQuality();
+      public Size getJpegThumbnailSize();
+      public int getMaxExposureCompensation();
+      public int getMaxFocusStep();
+      public int getMaxNumDetectedFaces();
+      public int getMaxNumDetectedObjects();
+      public int getMaxNumFocusAreas();
+      public int getMaxNumMeteringAreas();
+      public int getMaxZoom();
+      public List getMeteringAreas();
+      public int getMinExposureCompensation();
+      public int getMinFocusStep();
+      public List getPIPFrameRateZSDOff();
+      public List getPIPFrameRateZSDOn();
+      public int getPictureFormat();
+      public Size getPictureSize();
+      public Size getPreferredPreviewSizeForSlowMotionVideo();
+      public Size getPreferredPreviewSizeForVideo();
+      public int getPreviewFormat();
+      public void getPreviewFpsRange(int[]);
+      public int getPreviewFrameRate();
+      public Size getPreviewSize();
+      public String getRefocusMode();
+      public String getSaturationMode();
+      public String getSceneMode();
+      public int getSensorType();
+      public String getStereo3DType();
+      public List getSupportedAFLampMode();
+      public List getSupportedAntibanding();
+      public List getSupportedBrightnessMode();
+      public List getSupportedCaptureMode();
+      public List getSupportedColorEffects();
+      public List getSupportedContrastMode();
+      public List getSupportedEdgeMode();
+      public List getSupportedEisMode();
+      public List getSupportedFDMode();
+      public List getSupportedFlashModes();
+      public List getSupportedFocusModes();
+      public List getSupportedHueMode();
+      public List getSupportedISOSpeed();
+      public List getSupportedJpegThumbnailSizes();
+      public List getSupportedPictureFormats();
+      public List getSupportedPictureSizes();
+      public List getSupportedPreviewFormats();
+      public List getSupportedPreviewFpsRange();
+      public List getSupportedPreviewFrameRates();
+      public List getSupportedPreviewSizes();
+      public List getSupportedSaturationMode();
+      public List getSupportedSceneModes();
+      public List getSupportedSlowMotionVideoSizes();
+      public List getSupportedVideoSizes();
+      public List getSupportedWhiteBalance();
+      public List getSupportedZSDMode();
+      public float getVerticalViewAngle();
+      public boolean getVideoStabilization();
+      public String getWhiteBalance();
+      public String getZSDMode();
+      public int getZoom();
+      public List getZoomRatios();
+      public boolean isAutoExposureLockSupported();
+      public boolean isAutoWhiteBalanceLockSupported();
+      public boolean isDynamicFrameRateSupported();
+      public boolean isPdafSupported();
+      public boolean isSmoothZoomSupported();
+      public boolean isVideoSnapshotSupported();
+      public boolean isVideoStabilizationSupported();
+      public boolean isZoomSupported();
+      public void remove(String);
+      public void removeGpsData();
+      public boolean same(Parameters);
+      public void set(String, int);
+      public void set(StringString);
+      public void setAFLampMode(String);
+      public void setAntibanding(String);
+      public void setAutoExposureLock(boolean);
+      public void setAutoWhiteBalanceLock(boolean);
+      public void setBrightnessMode(String);
+      public void setBurstShotNum(int);
+      public void setCameraMode(int);
+      public void setCaptureMode(String);
+      public void setCapturePath(String);
+      public void setColorEffect(String);
+      public void setContinuousSpeedMode(String);
+      public void setContrastMode(String);
+      public void setDepthAFMode(boolean);
+      public void setDistanceMode(boolean);
+      public void setDynamicFrameRate(boolean);
+      public void setEdgeMode(String);
+      public void setEisMode(String);
+      public void setEngAEEnable(int);
+      public void setEngFlashDuty(int);
+      public void setEngFocusFullScanFrameInterval(int);
+      public void setEngParameter1(String);
+      public void setEngParameter2(String);
+      public void setEngParameter3(String);
+      public void setEngSaveShadingTable(int);
+      public void setEngShadingTable(int);
+      public void setEngZSDEnable(int);
+      public void setExposureCompensation(int);
+      public void setExposureMeterMode(String);
+      public void setFDMode(String);
+      public void setFlashMode(String);
+      public void setFocusAreas(List);
+      public void setFocusEngMode(int);
+      public void setFocusEngStep(int);
+      public void setFocusMode(String);
+      public void setGpsAltitude(double);
+      public void setGpsLatitude(double);
+      public void setGpsLongitude(double);
+      public void setGpsProcessingMethod(String);
+      public void setGpsTimestamp(long);
+      public void setHueMode(String);
+      public void setISOSpeed(String);
+      public void setJpegQuality(int);
+      public void setJpegThumbnailQuality(int);
+      public void setJpegThumbnailSize(intint);
+      public void setMATVDelay(int);
+      public void setMeteringAreas(List);
+      public void setPictureFormat(int);
+      public void setPictureSize(intint);
+      public void setPreviewFormat(int);
+      public void setPreviewFpsRange(intint);
+      public void setPreviewFrameRate(int);
+      public void setPreviewRawDumpResolution(int);
+      public void setPreviewSize(intint);
+      public void setRawDumpFlag(boolean);
+      public void setRecordingHint(boolean);
+      public void setRefocusJpsFileName(String);
+      public void setRefocusMode(boolean);
+      public void setRotation(int);
+      public void setSaturationMode(String);
+      public void setSceneMode(String);
+      public void setStereo3DMode(boolean);
+      public void setVideoStabilization(boolean);
+      public void setWhiteBalance(String);
+      public void setZSDMode(String);
+      public void setZoom(int);
+      public void unflatten(String);
+      static Camera access$3900(Parameters);
+      private String cameraFormatForPixelFormat(int);
+      private float getFloat(String, float);
+      private int getInt(String, int);
+      private Camera getOuter();
+      private int pixelFormatForCameraFormat(String);
+      private void put(StringString);
+      private boolean same(StringString);
+      private void set(String, List);
+      private ArrayList split(String);
+      private ArrayList splitArea(String);
+      private void splitFloat(String, float[]);
+      private ArrayList splitInt(String);
+      private void splitInt(String, int[]);
+      private ArrayList splitRange(String);
+      private ArrayList splitSize(String);
+      private Size strToSize(String);
+
+   }
+   public static class Area {
+      public  Rect rect;
+      public  int weight;
+
+      public boolean equals(Object);
+
+   }
+   public class Size {
+      public  int height;
+      final  Camera this$0;
+      public  int width;
+
+      public boolean equals(Object);
+      public int hashCode();
+
+   }
+   public abstract static class ContinuousShotCallback {
+      public abstract void onConinuousShotDone(int);
+
+   }
+   public abstract static class PreviewRawDumpCallback {
+      public abstract void onNotify(int);
+
+   }
+   public abstract static class ZSDPreviewDone {
+      public abstract void onPreviewDone();
+
+   }
+   public abstract static class ObjectTrackingListener {
+      public abstract void onObjectTracking(Face, Camera);
+
+   }
+   public abstract static class FbOriginalCallback {
+      public abstract void onCapture(byte[]);
+
+   }
+   public abstract static class StereoCameraMaskCallback {
+      public abstract void onCapture(byte[]);
+
+   }
+   public abstract static class DistanceInfoCallback {
+      public abstract void onInfo(String);
+
+   }
+   public abstract static class StereoCameraWarningCallback {
+      public abstract void onWarning(int);
+
+   }
+   public abstract static class StereoCameraJpsCallback {
+      public abstract void onCapture(byte[]);
+
+   }
+   public abstract static class HdrOriginalCallback {
+      public abstract void onCapture(byte[]);
+
+   }
+   public abstract static class MetadataCallback {
+      public abstract void onMetadataReceived(CaptureResult, CameraCharacteristics);
+
+   }
+   public abstract static class MotionTrackCallback {
+      public abstract void onDataCallback(byte[]);
+
+   }
+   public abstract static class AutoRamaMoveCallback {
+      public abstract void onFrame(intint);
+
+   }
+   public abstract static class AutoRamaCallback {
+      public abstract void onCapture(byte[]);
+
+   }
+   public abstract static class AFDataCallback {
+      public abstract void onAFData(byte[], Camera);
+
+   }
+   public abstract static class AsdCallback {
+      public abstract void onDetected(int);
+
+   }
+   public abstract static class MavCallback {
+      public abstract void onFrame(byte[]);
+
+   }
+   public abstract static class GestureCallback {
+      public abstract void onGesture();
+
+   }
+   public abstract static class SmileCallback {
+      public abstract void onSmile();
+
+   }
+   public abstract static class ErrorCallback {
+      public abstract void onError(int, Camera);
+
+   }
+   public static class Face {
+      public  int id;
+      public  Point leftEye;
+      public  Point mouth;
+      public  Rect rect;
+      public  Point rightEye;
+      public  int score;
+
+   }
+   public abstract static class FaceDetectionListener {
+      public abstract void onFaceDetection(Face[], Camera);
+
+   }
+   public abstract static class OnZoomChangeListener {
+      public abstract void onZoomChange(int, boolean, Camera);
+
+   }
+   public abstract static class PictureCallback {
+      public abstract void onPictureTaken(byte[], Camera);
+
+   }
+   public abstract static class ShutterCallback {
+      public abstract void onShutter();
+
+   }
+   public abstract static class AutoFocusMoveCallback {
+      public abstract void onAutoFocusMoving(boolean, Camera);
+
+   }
+   public abstract static class AutoFocusCallback {
+      public abstract void onAutoFocus(boolean, Camera);
+
+   }
+   public abstract static class PreviewCallback {
+      public abstract void onPreviewFrame(byte[], Camera);
+
+   }
+   public static class CameraInfo {
+      public  boolean canDisableShutterSound;
+      public  int facing;
+      public  int orientation;
+      final static  int CAMERA_FACING_BACK = 0;
+      final static  int CAMERA_FACING_FRONT = 1;
+
+   }
+}
+public class MediaRecorder {
+   private  EventHandler mEventHandler;
+   private  FileDescriptor mFd;
+   private  boolean mIsVideoRecord;
+   private  long mNativeContext;
+   protected  OnInfoListener mOnCameraReleasedListener;
+   private  OnErrorListener mOnErrorListener;
+   private  OnInfoListener mOnInfoListener;
+   private  String mPath;
+   private  Surface mSurface;
+   final static  int MEDIA_ERROR_SERVER_DIED = 100;
+   final static  int MEDIA_RECORDER_ERROR_UNKNOWN = 1;
+   final static  int MEDIA_RECORDER_EVENT_INFO = 2;
+   final static  int MEDIA_RECORDER_INFO_CAMERA_RELEASE = 1999;
+   final static  int MEDIA_RECORDER_INFO_MAX_DURATION_REACHED = 800;
+   final static  int MEDIA_RECORDER_INFO_MAX_FILESIZE_REACHED = 801;
+   final static  int MEDIA_RECORDER_INFO_UNKNOWN = 1;
+   final static  int MEDIA_RECORDER_TRACK_INFO_COMPLETION_STATUS = 1000;
+   final static  int MEDIA_RECORDER_TRACK_INFO_DATA_KBYTES = 1009;
+   final static  int MEDIA_RECORDER_TRACK_INFO_DURATION_MS = 1003;
+   final static  int MEDIA_RECORDER_TRACK_INFO_ENCODED_FRAMES = 1005;
+   final static  int MEDIA_RECORDER_TRACK_INFO_INITIAL_DELAY_MS = 1007;
+   final static  int MEDIA_RECORDER_TRACK_INFO_LIST_END = 2000;
+   final static  int MEDIA_RECORDER_TRACK_INFO_LIST_START = 1000;
+   final static  int MEDIA_RECORDER_TRACK_INFO_MAX_CHUNK_DUR_MS = 1004;
+   final static  int MEDIA_RECORDER_TRACK_INFO_PROGRESS_IN_TIME = 1001;
+   final static  int MEDIA_RECORDER_TRACK_INFO_START_OFFSET_MS = 1008;
+   final static  int MEDIA_RECORDER_TRACK_INFO_TYPE = 1002;
+   final static  int MEDIA_RECORDER_TRACK_INTER_CHUNK_TIME_MS = 1006;
+   final static  String TAG = MediaRecorder;
+
+   protected void finalize();
+   public native int getMaxAmplitude();
+   public native Surface getSurface();
+   public void pause();
+   public void prepare();
+   public native void release();
+   public void reset();
+   public void resume();
+   public void setAudioChannels(int);
+   public native void setAudioEncoder(int);
+   public void setAudioEncodingBitRate(int);
+   public void setAudioSamplingRate(int);
+   public native void setAudioSource(int);
+   public void setAuxiliaryOutputFile(FileDescriptor);
+   public void setAuxiliaryOutputFile(String);
+   public native void setCamera(Camera);
+   public void setCaptureRate(double);
+   public void setLocation(floatfloat);
+   public native void setMaxDuration(int);
+   public native void setMaxFileSize(long);
+   public void setOnCameraReleasedListener(OnInfoListener);
+   public void setOnErrorListener(OnErrorListener);
+   public void setOnInfoListener(OnInfoListener);
+   public void setOrientationHint(int);
+   public void setOutputFile(FileDescriptor);
+   public void setOutputFile(String);
+   public native void setOutputFormat(int);
+   public native void setParametersExtra(String);
+   public void setPreviewDisplay(Surface);
+   public void setProfile(CamcorderProfile);
+   public native void setVideoEncoder(int);
+   public void setVideoEncodingBitRate(int);
+   public native void setVideoFrameRate(int);
+   public native void setVideoSize(intint);
+   public void setVideoSource(int);
+   public native void start();
+   public native void stop();
+   private native void _prepare();
+   private native void _setOutputFile(FileDescriptor, longlong);
+   private native void _setVideoSource(int);
+   static long access$000(MediaRecorder);
+   static OnErrorListener access$100(MediaRecorder);
+   static OnInfoListener access$200(MediaRecorder);
+   private void enforceCameraPermission();
+   final static int getAudioSourceMax();
+   final native void native_finalize();
+   final static native void native_init();
+   private native void native_reset();
+   final native void native_setup(Object, String);
+   private static void postEventFromNative(Objectint, int, int, Object);
+   private native void setParameter(String);
+
+   public abstract static class OnInfoListener {
+      public abstract void onInfo(MediaRecorder, intint);
+
+   }
+   public abstract static class OnErrorListener {
+      public abstract void onError(MediaRecorder, intint);
+
+   }
+   final class VideoEncoder {
+      final  MediaRecorder this$0;
+      final static  int DEFAULT = 0;
+      final static  int H263 = 1;
+      final static  int H264 = 2;
+      final static  int MPEG_4_SP = 3;
+      final static  int VP8 = 4;
+
+   }
+   final class AudioEncoder {
+      final  MediaRecorder this$0;
+      final static  int AAC = 3;
+      final static  int AAC_ELD = 5;
+      final static  int ADPCM = 102;
+      final static  int AMR_NB = 1;
+      final static  int AMR_WB = 2;
+      final static  int DEFAULT = 0;
+      final static  int HE_AAC = 4;
+      final static  int MPEG_3 = 7;
+      final static  int PCM = 101;
+      final static  int VORBIS = 6;
+
+   }
+   final class OutputFormat {
+      final  MediaRecorder this$0;
+      final static  int AAC_ADIF = 5;
+      final static  int AAC_ADTS = 6;
+      final static  int AMR_NB = 3;
+      final static  int AMR_WB = 4;
+      final static  int DEFAULT = 0;
+      final static  int MPEG_3 = 10;
+      final static  int MPEG_4 = 2;
+      final static  int OUTPUT_FORMAT_MPEG2TS = 8;
+      final static  int OUTPUT_FORMAT_OGG = 102;
+      final static  int OUTPUT_FORMAT_RTP_AVP = 7;
+      final static  int OUTPUT_FORMAT_WAV = 101;
+      final static  int RAW_AMR = 3;
+      final static  int THREE_GPP = 1;
+      final static  int WEBM = 9;
+
+   }
+   final class VideoSource {
+      final  MediaRecorder this$0;
+      final static  int CAMERA = 1;
+      final static  int DEFAULT = 0;
+      final static  int SURFACE = 2;
+
+   }
+   final class AudioSource {
+      final  MediaRecorder this$0;
+      final static  int AUDIO_SOURCE_INVALID = -1;
+      final static  int CAMCORDER = 5;
+      final static  int DEFAULT = 0;
+      final static  int FM = 99;
+      final static  int FM_TUNER = 1998;
+      final static  int HOTWORD = 1999;
+      final static  int MATV = 98;
+      final static  int MIC = 1;
+      final static  int REMOTE_SUBMIX = 8;
+      final static  int VOICE_CALL = 4;
+      final static  int VOICE_COMMUNICATION = 7;
+      final static  int VOICE_DOWNLINK = 3;
+      final static  int VOICE_RECOGNITION = 6;
+      final static  int VOICE_UPLINK = 2;
+
+   }
+}
+public abstract class CameraDevice {
+   final static  int TEMPLATE_MANUAL = 6;
+   final static  int TEMPLATE_PREVIEW = 1;
+   final static  int TEMPLATE_RECORD = 3;
+   final static  int TEMPLATE_STILL_CAPTURE = 2;
+   final static  int TEMPLATE_VIDEO_SNAPSHOT = 4;
+   final static  int TEMPLATE_ZERO_SHUTTER_LAG = 5;
+
+   public abstract void close();
+   public abstract Builder createCaptureRequest(int);
+   public abstract void createCaptureSession(List, StateCallback, Handler);
+   public abstract String getId();
+
+   public abstract static class StateListener {
+   }
+   public abstract static class StateCallback {
+      final static  int ERROR_CAMERA_DEVICE = 4;
+      final static  int ERROR_CAMERA_DISABLED = 3;
+      final static  int ERROR_CAMERA_IN_USE = 1;
+      final static  int ERROR_CAMERA_SERVICE = 5;
+      final static  int ERROR_MAX_CAMERAS_IN_USE = 2;
+
+      public void onClosed(CameraDevice);
+      public abstract void onDisconnected(CameraDevice);
+      public abstract void onError(CameraDevice, int);
+      public abstract void onOpened(CameraDevice);
+
+   }
+}
+final class CameraCharacteristics {
+   private  List mAvailableRequestKeys;
+   private  List mAvailableResultKeys;
+   private  List mKeys;
+   final  CameraMetadataNative mProperties;
+   final static  Key COLOR_CORRECTION_AVAILABLE_ABERRATION_MODES = android.hardware.camera2.CameraCharacteristics$Key@e7366c1c;
+   final static  Key CONTROL_AE_AVAILABLE_ANTIBANDING_MODES = android.hardware.camera2.CameraCharacteristics$Key@3ec3a4a4;
+   final static  Key CONTROL_AE_AVAILABLE_MODES = android.hardware.camera2.CameraCharacteristics$Key@a1925085;
+   final static  Key CONTROL_AE_AVAILABLE_TARGET_FPS_RANGES = android.hardware.camera2.CameraCharacteristics$Key@d7963c6a;
+   final static  Key CONTROL_AE_COMPENSATION_RANGE = android.hardware.camera2.CameraCharacteristics$Key@7ef78f9c;
+   final static  Key CONTROL_AE_COMPENSATION_STEP = android.hardware.camera2.CameraCharacteristics$Key@ab1f3d50;
+   final static  Key CONTROL_AF_AVAILABLE_MODES = android.hardware.camera2.CameraCharacteristics$Key@bf5a6c2;
+   final static  Key CONTROL_AVAILABLE_EFFECTS = android.hardware.camera2.CameraCharacteristics$Key@9dfe2fb7;
+   final static  Key CONTROL_AVAILABLE_HIGH_SPEED_VIDEO_CONFIGURATIONS = android.hardware.camera2.CameraCharacteristics$Key@673b2bd7;
+   final static  Key CONTROL_AVAILABLE_SCENE_MODES = android.hardware.camera2.CameraCharacteristics$Key@7845fe23;
+   final static  Key CONTROL_AVAILABLE_VIDEO_STABILIZATION_MODES = android.hardware.camera2.CameraCharacteristics$Key@9e7f4ccd;
+   final static  Key CONTROL_AWB_AVAILABLE_MODES = android.hardware.camera2.CameraCharacteristics$Key@95c0dc5d;
+   final static  Key CONTROL_MAX_REGIONS = android.hardware.camera2.CameraCharacteristics$Key@c1bd3b5;
+   final static  Key CONTROL_MAX_REGIONS_AE = android.hardware.camera2.CameraCharacteristics$Key@c2fc790d;
+   final static  Key CONTROL_MAX_REGIONS_AF = android.hardware.camera2.CameraCharacteristics$Key@c2fc7912;
+   final static  Key CONTROL_MAX_REGIONS_AWB = android.hardware.camera2.CameraCharacteristics$Key@5e1bd263;
+   final static  Key EDGE_AVAILABLE_EDGE_MODES = android.hardware.camera2.CameraCharacteristics$Key@bb8ac142;
+   final static  Key FLASH_INFO_AVAILABLE = android.hardware.camera2.CameraCharacteristics$Key@1742d89;
+   final static  Key HOT_PIXEL_AVAILABLE_HOT_PIXEL_MODES = android.hardware.camera2.CameraCharacteristics$Key@dcde02ba;
+   final static  Key INFO_SUPPORTED_HARDWARE_LEVEL = android.hardware.camera2.CameraCharacteristics$Key@13f8bd2d;
+   final static  Key JPEG_AVAILABLE_THUMBNAIL_SIZES = android.hardware.camera2.CameraCharacteristics$Key@29523890;
+   final static  Key LED_AVAILABLE_LEDS = android.hardware.camera2.CameraCharacteristics$Key@9a08a771;
+   final static  Key LENS_FACING = android.hardware.camera2.CameraCharacteristics$Key@7f5dde49;
+   final static  Key LENS_INFO_AVAILABLE_APERTURES = android.hardware.camera2.CameraCharacteristics$Key@78c44338;
+   final static  Key LENS_INFO_AVAILABLE_FILTER_DENSITIES = android.hardware.camera2.CameraCharacteristics$Key@8423a7a5;
+   final static  Key LENS_INFO_AVAILABLE_FOCAL_LENGTHS = android.hardware.camera2.CameraCharacteristics$Key@6a214573;
+   final static  Key LENS_INFO_AVAILABLE_OPTICAL_STABILIZATION = android.hardware.camera2.CameraCharacteristics$Key@e4b478df;
+   final static  Key LENS_INFO_FOCUS_DISTANCE_CALIBRATION = android.hardware.camera2.CameraCharacteristics$Key@5f64b16e;
+   final static  Key LENS_INFO_HYPERFOCAL_DISTANCE = android.hardware.camera2.CameraCharacteristics$Key@a809ab2d;
+   final static  Key LENS_INFO_MINIMUM_FOCUS_DISTANCE = android.hardware.camera2.CameraCharacteristics$Key@9a7095fe;
+   final static  Key LENS_INFO_SHADING_MAP_SIZE = android.hardware.camera2.CameraCharacteristics$Key@eed2c4f4;
+   final static  Key NOISE_REDUCTION_AVAILABLE_NOISE_REDUCTION_MODES = android.hardware.camera2.CameraCharacteristics$Key@4df94bba;
+   final static  Key QUIRKS_USE_PARTIAL_RESULT = android.hardware.camera2.CameraCharacteristics$Key@692f5166;
+   final static  Key REQUEST_AVAILABLE_CAPABILITIES = android.hardware.camera2.CameraCharacteristics$Key@5b4be17f;
+   final static  Key REQUEST_AVAILABLE_CHARACTERISTICS_KEYS = android.hardware.camera2.CameraCharacteristics$Key@517a6b5f;
+   final static  Key REQUEST_AVAILABLE_REQUEST_KEYS = android.hardware.camera2.CameraCharacteristics$Key@b94e0906;
+   final static  Key REQUEST_AVAILABLE_RESULT_KEYS = android.hardware.camera2.CameraCharacteristics$Key@495794c2;
+   final static  Key REQUEST_MAX_NUM_INPUT_STREAMS = android.hardware.camera2.CameraCharacteristics$Key@201f0c8b;
+   final static  Key REQUEST_MAX_NUM_OUTPUT_PROC = android.hardware.camera2.CameraCharacteristics$Key@6c70beb5;
+   final static  Key REQUEST_MAX_NUM_OUTPUT_PROC_STALLING = android.hardware.camera2.CameraCharacteristics$Key@3f5aa11b;
+   final static  Key REQUEST_MAX_NUM_OUTPUT_RAW = android.hardware.camera2.CameraCharacteristics$Key@dabe5a5;
+   final static  Key REQUEST_MAX_NUM_OUTPUT_STREAMS = android.hardware.camera2.CameraCharacteristics$Key@b682edcc;
+   final static  Key REQUEST_PARTIAL_RESULT_COUNT = android.hardware.camera2.CameraCharacteristics$Key@654bd4cd;
+   final static  Key REQUEST_PIPELINE_MAX_DEPTH = android.hardware.camera2.CameraCharacteristics$Key@e3275568;
+   final static  Key SCALER_AVAILABLE_FORMATS = android.hardware.camera2.CameraCharacteristics$Key@424de824;
+   final static  Key SCALER_AVAILABLE_INPUT_OUTPUT_FORMATS_MAP = android.hardware.camera2.CameraCharacteristics$Key@b8862c57;
+   final static  Key SCALER_AVAILABLE_JPEG_MIN_DURATIONS = android.hardware.camera2.CameraCharacteristics$Key@3af35520;
+   final static  Key SCALER_AVAILABLE_JPEG_SIZES = android.hardware.camera2.CameraCharacteristics$Key@a47afd90;
+   final static  Key SCALER_AVAILABLE_MAX_DIGITAL_ZOOM = android.hardware.camera2.CameraCharacteristics$Key@55a75bd9;
+   final static  Key SCALER_AVAILABLE_MIN_FRAME_DURATIONS = android.hardware.camera2.CameraCharacteristics$Key@59c877cf;
+   final static  Key SCALER_AVAILABLE_PROCESSED_MIN_DURATIONS = android.hardware.camera2.CameraCharacteristics$Key@d75c3f4e;
+   final static  Key SCALER_AVAILABLE_PROCESSED_SIZES = android.hardware.camera2.CameraCharacteristics$Key@9c5c41be;
+   final static  Key SCALER_AVAILABLE_STALL_DURATIONS = android.hardware.camera2.CameraCharacteristics$Key@3974084c;
+   final static  Key SCALER_AVAILABLE_STREAM_CONFIGURATIONS = android.hardware.camera2.CameraCharacteristics$Key@a24ec45b;
+   final static  Key SCALER_CROPPING_TYPE = android.hardware.camera2.CameraCharacteristics$Key@6840fa1;
+   final static  Key SCALER_STREAM_CONFIGURATION_MAP = android.hardware.camera2.CameraCharacteristics$Key@b794320f;
+   final static  Key SENSOR_AVAILABLE_TEST_PATTERN_MODES = android.hardware.camera2.CameraCharacteristics$Key@c0995038;
+   final static  Key SENSOR_BLACK_LEVEL_PATTERN = android.hardware.camera2.CameraCharacteristics$Key@5903479;
+   final static  Key SENSOR_CALIBRATION_TRANSFORM1 = android.hardware.camera2.CameraCharacteristics$Key@d3a520d4;
+   final static  Key SENSOR_CALIBRATION_TRANSFORM2 = android.hardware.camera2.CameraCharacteristics$Key@d3a520d5;
+   final static  Key SENSOR_COLOR_TRANSFORM1 = android.hardware.camera2.CameraCharacteristics$Key@6b2cc15d;
+   final static  Key SENSOR_COLOR_TRANSFORM2 = android.hardware.camera2.CameraCharacteristics$Key@6b2cc15a;
+   final static  Key SENSOR_FORWARD_MATRIX1 = android.hardware.camera2.CameraCharacteristics$Key@4e8e4bee;
+   final static  Key SENSOR_FORWARD_MATRIX2 = android.hardware.camera2.CameraCharacteristics$Key@4e8e4bef;
+   final static  Key SENSOR_INFO_ACTIVE_ARRAY_SIZE = android.hardware.camera2.CameraCharacteristics$Key@b797caba;
+   final static  Key SENSOR_INFO_COLOR_FILTER_ARRANGEMENT = android.hardware.camera2.CameraCharacteristics$Key@1eeb83b8;
+   final static  Key SENSOR_INFO_EXPOSURE_TIME_RANGE = android.hardware.camera2.CameraCharacteristics$Key@d68b13b0;
+   final static  Key SENSOR_INFO_MAX_FRAME_DURATION = android.hardware.camera2.CameraCharacteristics$Key@75180adb;
+   final static  Key SENSOR_INFO_PHYSICAL_SIZE = android.hardware.camera2.CameraCharacteristics$Key@70982ca;
+   final static  Key SENSOR_INFO_PIXEL_ARRAY_SIZE = android.hardware.camera2.CameraCharacteristics$Key@86a2ea69;
+   final static  Key SENSOR_INFO_SENSITIVITY_RANGE = android.hardware.camera2.CameraCharacteristics$Key@777554ba;
+   final static  Key SENSOR_INFO_TIMESTAMP_SOURCE = android.hardware.camera2.CameraCharacteristics$Key@416a1dc4;
+   final static  Key SENSOR_INFO_WHITE_LEVEL = android.hardware.camera2.CameraCharacteristics$Key@434671c4;
+   final static  Key SENSOR_MAX_ANALOG_SENSITIVITY = android.hardware.camera2.CameraCharacteristics$Key@2a0d92c2;
+   final static  Key SENSOR_ORIENTATION = android.hardware.camera2.CameraCharacteristics$Key@bc2200f9;
+   final static  Key SENSOR_REFERENCE_ILLUMINANT1 = android.hardware.camera2.CameraCharacteristics$Key@36476cf8;
+   final static  Key SENSOR_REFERENCE_ILLUMINANT2 = android.hardware.camera2.CameraCharacteristics$Key@1905d28c;
+   final static  Key STATISTICS_INFO_AVAILABLE_FACE_DETECT_MODES = android.hardware.camera2.CameraCharacteristics$Key@8f9a145;
+   final static  Key STATISTICS_INFO_AVAILABLE_HOT_PIXEL_MAP_MODES = android.hardware.camera2.CameraCharacteristics$Key@ce03ab3e;
+   final static  Key STATISTICS_INFO_MAX_FACE_COUNT = android.hardware.camera2.CameraCharacteristics$Key@1258cb80;
+   final static  Key SYNC_MAX_LATENCY = android.hardware.camera2.CameraCharacteristics$Key@54eca52c;
+   final static  Key TONEMAP_AVAILABLE_TONE_MAP_MODES = android.hardware.camera2.CameraCharacteristics$Key@7d1e2e12;
+   final static  Key TONEMAP_MAX_CURVE_POINTS = android.hardware.camera2.CameraCharacteristics$Key@95c31b53;
+
+   public Object get(Key);
+   public List getAvailableCaptureRequestKeys();
+   public List getAvailableCaptureResultKeys();
+   protected Class getKeyClass();
+   public List getKeys();
+   public CameraMetadataNative getNativeCopy();
+   protected Object getProtected(Key);
+   protected Object getProtected(Object);
+   private List getAvailableKeyList(Class, Class, int[]);
+
+   final static class Key {
+      final  Key mKey;
+
+      final boolean equals(Object);
+      public String getName();
+      public Key getNativeKey();
+      final int hashCode();
+
+   }
+}
+final class CaptureRequest {
+   final  CameraMetadataNative mSettings;
+   final  HashSet mSurfaceSet;
+   private  Object mUserTag;
+   final static  Key BLACK_LEVEL_LOCK = android.hardware.camera2.CaptureRequest$Key@9840b5da;
+   final static  Key COLOR_CORRECTION_ABERRATION_MODE = android.hardware.camera2.CaptureRequest$Key@c57f3962;
+   final static  Key COLOR_CORRECTION_GAINS = android.hardware.camera2.CaptureRequest$Key@52477d2d;
+   final static  Key COLOR_CORRECTION_MODE = android.hardware.camera2.CaptureRequest$Key@e3fe81ed;
+   final static  Key COLOR_CORRECTION_TRANSFORM = android.hardware.camera2.CaptureRequest$Key@5ee0cd4e;
+   final static  Key CONTROL_AE_ANTIBANDING_MODE = android.hardware.camera2.CaptureRequest$Key@5b0581d8;
+   final static  Key CONTROL_AE_EXPOSURE_COMPENSATION = android.hardware.camera2.CaptureRequest$Key@f5998bd7;
+   final static  Key CONTROL_AE_LOCK = android.hardware.camera2.CaptureRequest$Key@a25f6690;
+   final static  Key CONTROL_AE_MODE = android.hardware.camera2.CaptureRequest$Key@9bb08d75;
+   final static  Key CONTROL_AE_PRECAPTURE_TRIGGER = android.hardware.camera2.CaptureRequest$Key@c4d4dba3;
+   final static  Key CONTROL_AE_REGIONS = android.hardware.camera2.CaptureRequest$Key@528fae51;
+   final static  Key CONTROL_AE_TARGET_FPS_RANGE = android.hardware.camera2.CaptureRequest$Key@8f89d96a;
+   final static  Key CONTROL_AF_MODE = android.hardware.camera2.CaptureRequest$Key@9b86a5fa;
+   final static  Key CONTROL_AF_REGIONS = android.hardware.camera2.CaptureRequest$Key@faeefb70;
+   final static  Key CONTROL_AF_TRIGGER = android.hardware.camera2.CaptureRequest$Key@7730c741;
+   final static  Key CONTROL_AWB_LOCK = android.hardware.camera2.CaptureRequest$Key@c808cdc8;
+   final static  Key CONTROL_AWB_MODE = android.hardware.camera2.CaptureRequest$Key@f1e0361d;
+   final static  Key CONTROL_AWB_REGIONS = android.hardware.camera2.CaptureRequest$Key@5abdb6f9;
+   final static  Key CONTROL_CAPTURE_INTENT = android.hardware.camera2.CaptureRequest$Key@b1e4cff0;
+   final static  Key CONTROL_EFFECT_MODE = android.hardware.camera2.CaptureRequest$Key@c880b666;
+   final static  Key CONTROL_MODE = android.hardware.camera2.CaptureRequest$Key@dc7c731;
+   final static  Key CONTROL_SCENE_MODE = android.hardware.camera2.CaptureRequest$Key@39d604bd;
+   final static  Key CONTROL_VIDEO_STABILIZATION_MODE = android.hardware.camera2.CaptureRequest$Key@167cf075;
+   final static  Creator CREATOR = android.hardware.camera2.CaptureRequest$1@569cdb3;
+   final static  Key EDGE_MODE = android.hardware.camera2.CaptureRequest$Key@ee8059f7;
+   final static  Key FLASH_MODE = android.hardware.camera2.CaptureRequest$Key@b9881242;
+   final static  Key HOT_PIXEL_MODE = android.hardware.camera2.CaptureRequest$Key@b9bbbd7b;
+   final static  Key JPEG_GPS_COORDINATES = android.hardware.camera2.CaptureRequest$Key@a0a1afb0;
+   final static  Key JPEG_GPS_LOCATION = android.hardware.camera2.CaptureRequest$Key@b30fb7b3;
+   final static  Key JPEG_GPS_PROCESSING_METHOD = android.hardware.camera2.CaptureRequest$Key@f0685096;
+   final static  Key JPEG_GPS_TIMESTAMP = android.hardware.camera2.CaptureRequest$Key@37a37b00;
+   final static  Key JPEG_ORIENTATION = android.hardware.camera2.CaptureRequest$Key@54686d6b;
+   final static  Key JPEG_QUALITY = android.hardware.camera2.CaptureRequest$Key@d25c936f;
+   final static  Key JPEG_THUMBNAIL_QUALITY = android.hardware.camera2.CaptureRequest$Key@8a08810d;
+   final static  Key JPEG_THUMBNAIL_SIZE = android.hardware.camera2.CaptureRequest$Key@dfb76670;
+   final static  Key LED_TRANSMIT = android.hardware.camera2.CaptureRequest$Key@f21ad0bd;
+   final static  Key LENS_APERTURE = android.hardware.camera2.CaptureRequest$Key@a426f391;
+   final static  Key LENS_FILTER_DENSITY = android.hardware.camera2.CaptureRequest$Key@8a1ac1ef;
+   final static  Key LENS_FOCAL_LENGTH = android.hardware.camera2.CaptureRequest$Key@a5ae808a;
+   final static  Key LENS_FOCUS_DISTANCE = android.hardware.camera2.CaptureRequest$Key@e4f2df0c;
+   final static  Key LENS_OPTICAL_STABILIZATION_MODE = android.hardware.camera2.CaptureRequest$Key@aca06d39;
+   final static  Key NOISE_REDUCTION_MODE = android.hardware.camera2.CaptureRequest$Key@12253c7b;
+   final static  Key REQUEST_ID = android.hardware.camera2.CaptureRequest$Key@f56aa23b;
+   final static  Key SCALER_CROP_REGION = android.hardware.camera2.CaptureRequest$Key@95da5c98;
+   final static  Key SENSOR_EXPOSURE_TIME = android.hardware.camera2.CaptureRequest$Key@1f2372ba;
+   final static  Key SENSOR_FRAME_DURATION = android.hardware.camera2.CaptureRequest$Key@1eff0f9f;
+   final static  Key SENSOR_SENSITIVITY = android.hardware.camera2.CaptureRequest$Key@c4d337c8;
+   final static  Key SENSOR_TEST_PATTERN_DATA = android.hardware.camera2.CaptureRequest$Key@c41b212d;
+   final static  Key SENSOR_TEST_PATTERN_MODE = android.hardware.camera2.CaptureRequest$Key@e03f4e0e;
+   final static  Key SHADING_MODE = android.hardware.camera2.CaptureRequest$Key@35457d04;
+   final static  Key STATISTICS_FACE_DETECT_MODE = android.hardware.camera2.CaptureRequest$Key@bcf1b50d;
+   final static  Key STATISTICS_HOT_PIXEL_MAP_MODE = android.hardware.camera2.CaptureRequest$Key@83edfc55;
+   final static  Key STATISTICS_LENS_SHADING_MAP_MODE = android.hardware.camera2.CaptureRequest$Key@6524b99d;
+   final static  Key TONEMAP_CURVE = android.hardware.camera2.CaptureRequest$Key@1179f52a;
+   final static  Key TONEMAP_CURVE_BLUE = android.hardware.camera2.CaptureRequest$Key@d5ed357;
+   final static  Key TONEMAP_CURVE_GREEN = android.hardware.camera2.CaptureRequest$Key@a73ffc46;
+   final static  Key TONEMAP_CURVE_RED = android.hardware.camera2.CaptureRequest$Key@6bb05734;
+   final static  Key TONEMAP_MODE = android.hardware.camera2.CaptureRequest$Key@18267804;
+
+   public boolean containsTarget(Surface);
+   public int describeContents();
+   public boolean equals(Object);
+   public Object get(Key);
+   protected Class getKeyClass();
+   public List getKeys();
+   protected Object getProtected(Key);
+   protected Object getProtected(Object);
+   public Object getTag();
+   public Collection getTargets();
+   public int hashCode();
+   public void writeToParcel(Parcel, int);
+   static void access$100(CaptureRequest, Parcel);
+   static HashSet access$300(CaptureRequest);
+   static CameraMetadataNative access$400(CaptureRequest);
+   static Object access$502(CaptureRequest, Object);
+   private boolean equals(CaptureRequest);
+   private void readFromParcel(Parcel);
+
+   final static class Builder {
+      final  CaptureRequest mRequest;
+
+      public void addTarget(Surface);
+      public CaptureRequest build();
+      public Object get(Key);
+      public boolean isEmpty();
+      public void removeTarget(Surface);
+      public void set(Key, Object);
+      public void setTag(Object);
+
+   }
+   final static class Key {
+      final  Key mKey;
+
+      final boolean equals(Object);
+      public String getName();
+      public Key getNativeKey();
+      final int hashCode();
+
+   }
+}
+public class CaptureResult {
+   final  long mFrameNumber;
+   final  CaptureRequest mRequest;
+   final  CameraMetadataNative mResults;
+   final  int mSequenceId;
+   final static  Key BLACK_LEVEL_LOCK = android.hardware.camera2.CaptureResult$Key@9840b5da;
+   final static  Key COLOR_CORRECTION_ABERRATION_MODE = android.hardware.camera2.CaptureResult$Key@c57f3962;
+   final static  Key COLOR_CORRECTION_GAINS = android.hardware.camera2.CaptureResult$Key@52477d2d;
+   final static  Key COLOR_CORRECTION_MODE = android.hardware.camera2.CaptureResult$Key@e3fe81ed;
+   final static  Key COLOR_CORRECTION_TRANSFORM = android.hardware.camera2.CaptureResult$Key@5ee0cd4e;
+   final static  Key CONTROL_AE_ANTIBANDING_MODE = android.hardware.camera2.CaptureResult$Key@5b0581d8;
+   final static  Key CONTROL_AE_EXPOSURE_COMPENSATION = android.hardware.camera2.CaptureResult$Key@f5998bd7;
+   final static  Key CONTROL_AE_LOCK = android.hardware.camera2.CaptureResult$Key@a25f6690;
+   final static  Key CONTROL_AE_MODE = android.hardware.camera2.CaptureResult$Key@9bb08d75;
+   final static  Key CONTROL_AE_PRECAPTURE_TRIGGER = android.hardware.camera2.CaptureResult$Key@c4d4dba3;
+   final static  Key CONTROL_AE_REGIONS = android.hardware.camera2.CaptureResult$Key@528fae51;
+   final static  Key CONTROL_AE_STATE = android.hardware.camera2.CaptureResult$Key@916f1a3f;
+   final static  Key CONTROL_AE_TARGET_FPS_RANGE = android.hardware.camera2.CaptureResult$Key@8f89d96a;
+   final static  Key CONTROL_AF_MODE = android.hardware.camera2.CaptureResult$Key@9b86a5fa;
+   final static  Key CONTROL_AF_REGIONS = android.hardware.camera2.CaptureResult$Key@faeefb70;
+   final static  Key CONTROL_AF_STATE = android.hardware.camera2.CaptureResult$Key@93a471de;
+   final static  Key CONTROL_AF_TRIGGER = android.hardware.camera2.CaptureResult$Key@7730c741;
+   final static  Key CONTROL_AWB_LOCK = android.hardware.camera2.CaptureResult$Key@c808cdc8;
+   final static  Key CONTROL_AWB_MODE = android.hardware.camera2.CaptureResult$Key@f1e0361d;
+   final static  Key CONTROL_AWB_REGIONS = android.hardware.camera2.CaptureResult$Key@5abdb6f9;
+   final static  Key CONTROL_AWB_STATE = android.hardware.camera2.CaptureResult$Key@114cb97;
+   final static  Key CONTROL_CAPTURE_INTENT = android.hardware.camera2.CaptureResult$Key@b1e4cff0;
+   final static  Key CONTROL_EFFECT_MODE = android.hardware.camera2.CaptureResult$Key@c880b666;
+   final static  Key CONTROL_MODE = android.hardware.camera2.CaptureResult$Key@dc7c731;
+   final static  Key CONTROL_SCENE_MODE = android.hardware.camera2.CaptureResult$Key@39d604bd;
+   final static  Key CONTROL_VIDEO_STABILIZATION_MODE = android.hardware.camera2.CaptureResult$Key@167cf075;
+   final static  Key EDGE_MODE = android.hardware.camera2.CaptureResult$Key@ee8059f7;
+   final static  Key FLASH_MODE = android.hardware.camera2.CaptureResult$Key@b9881242;
+   final static  Key FLASH_STATE = android.hardware.camera2.CaptureResult$Key@b4606b96;
+   final static  Key HOT_PIXEL_MODE = android.hardware.camera2.CaptureResult$Key@b9bbbd7b;
+   final static  Key JPEG_GPS_COORDINATES = android.hardware.camera2.CaptureResult$Key@a0a1afb0;
+   final static  Key JPEG_GPS_LOCATION = android.hardware.camera2.CaptureResult$Key@b30fb7b3;
+   final static  Key JPEG_GPS_PROCESSING_METHOD = android.hardware.camera2.CaptureResult$Key@f0685096;
+   final static  Key JPEG_GPS_TIMESTAMP = android.hardware.camera2.CaptureResult$Key@37a37b00;
+   final static  Key JPEG_ORIENTATION = android.hardware.camera2.CaptureResult$Key@54686d6b;
+   final static  Key JPEG_QUALITY = android.hardware.camera2.CaptureResult$Key@d25c936f;
+   final static  Key JPEG_THUMBNAIL_QUALITY = android.hardware.camera2.CaptureResult$Key@8a08810d;
+   final static  Key JPEG_THUMBNAIL_SIZE = android.hardware.camera2.CaptureResult$Key@dfb76670;
+   final static  Key LED_TRANSMIT = android.hardware.camera2.CaptureResult$Key@f21ad0bd;
+   final static  Key LENS_APERTURE = android.hardware.camera2.CaptureResult$Key@a426f391;
+   final static  Key LENS_FILTER_DENSITY = android.hardware.camera2.CaptureResult$Key@8a1ac1ef;
+   final static  Key LENS_FOCAL_LENGTH = android.hardware.camera2.CaptureResult$Key@a5ae808a;
+   final static  Key LENS_FOCUS_DISTANCE = android.hardware.camera2.CaptureResult$Key@e4f2df0c;
+   final static  Key LENS_FOCUS_RANGE = android.hardware.camera2.CaptureResult$Key@cb09f723;
+   final static  Key LENS_OPTICAL_STABILIZATION_MODE = android.hardware.camera2.CaptureResult$Key@aca06d39;
+   final static  Key LENS_STATE = android.hardware.camera2.CaptureResult$Key@2a6f3f02;
+   final static  Key NOISE_REDUCTION_MODE = android.hardware.camera2.CaptureResult$Key@12253c7b;
+   final static  Key QUIRKS_PARTIAL_RESULT = android.hardware.camera2.CaptureResult$Key@4f5d758b;
+   final static  Key REQUEST_FRAME_COUNT = android.hardware.camera2.CaptureResult$Key@6ca2a9c2;
+   final static  Key REQUEST_ID = android.hardware.camera2.CaptureResult$Key@f56aa23b;
+   final static  Key REQUEST_PIPELINE_DEPTH = android.hardware.camera2.CaptureResult$Key@ce734414;
+   final static  Key SCALER_CROP_REGION = android.hardware.camera2.CaptureResult$Key@95da5c98;
+   final static  Key SENSOR_EXPOSURE_TIME = android.hardware.camera2.CaptureResult$Key@1f2372ba;
+   final static  Key SENSOR_FRAME_DURATION = android.hardware.camera2.CaptureResult$Key@1eff0f9f;
+   final static  Key SENSOR_GREEN_SPLIT = android.hardware.camera2.CaptureResult$Key@2a90c1c;
+   final static  Key SENSOR_NEUTRAL_COLOR_POINT = android.hardware.camera2.CaptureResult$Key@97c412ad;
+   final static  Key SENSOR_NOISE_PROFILE = android.hardware.camera2.CaptureResult$Key@9bd690b1;
+   final static  Key SENSOR_ROLLING_SHUTTER_SKEW = android.hardware.camera2.CaptureResult$Key@b84d3594;
+   final static  Key SENSOR_SENSITIVITY = android.hardware.camera2.CaptureResult$Key@c4d337c8;
+   final static  Key SENSOR_TEST_PATTERN_DATA = android.hardware.camera2.CaptureResult$Key@c41b212d;
+   final static  Key SENSOR_TEST_PATTERN_MODE = android.hardware.camera2.CaptureResult$Key@e03f4e0e;
+   final static  Key SENSOR_TIMESTAMP = android.hardware.camera2.CaptureResult$Key@35d5d712;
+   final static  Key SHADING_MODE = android.hardware.camera2.CaptureResult$Key@35457d04;
+   final static  Key STATISTICS_FACES = android.hardware.camera2.CaptureResult$Key@1178b2d4;
+   final static  Key STATISTICS_FACE_DETECT_MODE = android.hardware.camera2.CaptureResult$Key@bcf1b50d;
+   final static  Key STATISTICS_FACE_IDS = android.hardware.camera2.CaptureResult$Key@dae65591;
+   final static  Key STATISTICS_FACE_LANDMARKS = android.hardware.camera2.CaptureResult$Key@8b0be5cc;
+   final static  Key STATISTICS_FACE_RECTANGLES = android.hardware.camera2.CaptureResult$Key@361b742d;
+   final static  Key STATISTICS_FACE_SCORES = android.hardware.camera2.CaptureResult$Key@10a09813;
+   final static  Key STATISTICS_HOT_PIXEL_MAP = android.hardware.camera2.CaptureResult$Key@c69a90bb;
+   final static  Key STATISTICS_HOT_PIXEL_MAP_MODE = android.hardware.camera2.CaptureResult$Key@83edfc55;
+   final static  Key STATISTICS_LENS_SHADING_CORRECTION_MAP = android.hardware.camera2.CaptureResult$Key@a2da46e1;
+   final static  Key STATISTICS_LENS_SHADING_MAP = android.hardware.camera2.CaptureResult$Key@71dc8ed;
+   final static  Key STATISTICS_LENS_SHADING_MAP_MODE = android.hardware.camera2.CaptureResult$Key@6524b99d;
+   final static  Key STATISTICS_PREDICTED_COLOR_GAINS = android.hardware.camera2.CaptureResult$Key@b0f9d82c;
+   final static  Key STATISTICS_PREDICTED_COLOR_TRANSFORM = android.hardware.camera2.CaptureResult$Key@de4f3467;
+   final static  Key STATISTICS_SCENE_FLICKER = android.hardware.camera2.CaptureResult$Key@6d0fbba;
+   final static  Key SYNC_FRAME_NUMBER = android.hardware.camera2.CaptureResult$Key@2b989b71;
+   final static  String TAG = CaptureResult;
+   final static  Key TONEMAP_CURVE = android.hardware.camera2.CaptureResult$Key@1179f52a;
+   final static  Key TONEMAP_CURVE_BLUE = android.hardware.camera2.CaptureResult$Key@d5ed357;
+   final static  Key TONEMAP_CURVE_GREEN = android.hardware.camera2.CaptureResult$Key@a73ffc46;
+   final static  Key TONEMAP_CURVE_RED = android.hardware.camera2.CaptureResult$Key@6bb05734;
+   final static  Key TONEMAP_MODE = android.hardware.camera2.CaptureResult$Key@18267804;
+   final static  boolean VERBOSE = false;
+
+   public void dumpToLog();
+   public Object get(Key);
+   public long getFrameNumber();
+   protected Class getKeyClass();
+   public List getKeys();
+   public CameraMetadataNative getNativeCopy();
+   protected Object getProtected(Key);
+   protected Object getProtected(Object);
+   public CaptureRequest getRequest();
+   public int getSequenceId();
+
+   final static class Key {
+      final  Key mKey;
+
+      final boolean equals(Object);
+      public String getName();
+      public Key getNativeKey();
+      final int hashCode();
+
+   }
+}
